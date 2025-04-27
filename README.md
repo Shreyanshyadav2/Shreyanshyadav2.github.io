@@ -13,7 +13,7 @@ The dashboard explores key questions:
 
 The project uses data visualisations to communicate these insights clearly through:
 - 📊 **Bar Chart:** Top 10 countries by fertility rate  
-- 📈 **Smoothed Line Chart:** GDP per capita vs child mortality rate (with outliers removed)  
+- 📈 **Smoothed Line Chart:** GDP per capita vs child mortality rate   
 - 📅 **Time-Series Plot:** Mortality trends over time for 5 countries  
 - 🌍 **Global Map (Choropleth):** Average mortality rates by country  
 
@@ -51,19 +51,19 @@ The project uses data visualisations to communicate these insights clearly throu
 ---
 
 ## 🚀 **Optional: View Hosted Report on GitHub Pages**
-_(If GitHub Pages is enabled for this repo, provide the link here)_  
-Example:  
-```
-https://yourusername.github.io/unicef-womens-rights-dashboard/
-```
+ 
+(https://shreyanshyadav2.github.io)
+
 
 ---
 
 ## ✅ **Author**
 Prepared by **Shreyansh Yadav**  
 Master’s Student, Management (Business)
+ID :- 10733
+Professor :- Dr. Damien Dupré
+
+
 
 ---
 
-## 📧 **Contact**
-For questions or feedback, feel free to reach out via GitHub Issues or email.
